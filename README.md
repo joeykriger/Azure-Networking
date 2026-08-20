@@ -1,3 +1,5 @@
+# Azure Cloud Networking Lab: Segmented Two-Site Network with VNet Peering
+
 1. **Overview** — *The company, Contoso Retail, needs to connect two of their locations using Azure. Their head office `(HQ-VNet)` and their branch office `(Branch-VNet)` will be securely connected through `VNet peering`.*
 2. **Architecture** 
 ```mermaid
